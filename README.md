@@ -1,4 +1,6 @@
 ﻿## Oracle-SQL
+### 교재 : NCS 기반의 ORACLE SQL&PL/SQL
+### 저자 : 허태성
 
 SQL로 데이터 분석하는 강좌입니다.<br>
 
